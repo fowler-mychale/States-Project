@@ -1,7 +1,6 @@
 # States-Project
 
-The purpose of this game demo is to help students learn the states and corresponding capitals. 
-________________________________________________________________</br>
+The purpose of this game demo is to help students learn the states and corresponding capitals. </br>
 
 <img src="openingScreen.PNG" width="400" height="300"></br>
 
