@@ -1,7 +1,6 @@
 # States-Project
 
-The purpose of this game is to help you learn the states and capitals 
-of the United States of America. 
+The purpose of this game demo is to help students learn the states and corresponding capitals. 
 ________________________________________________________________</br>
 
 <img src="openingScreen.PNG" width="400" height="300"></br>
