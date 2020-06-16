@@ -7,7 +7,7 @@ ________________________________________________________________</br>
 Click the study button to go over all the states and learn a little extra 
 about them. </br>
 
-![Study Guide](States-Project/study.gif)
+![Study Guide](States-Project/test.gif)
 
 After studying and going over all the states, feel free to click the learn 
 button to be tested on the capitals of random states! You will be given 
