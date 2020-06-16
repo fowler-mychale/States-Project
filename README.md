@@ -7,7 +7,14 @@ ________________________________________________________________</br>
 Click the study button to go over all the states and learn a little extra 
 about them. </br>
 
-![Study Guide](States-Project/test.gif)
+Study-Guide: 
+![alt text](https://github.com/fowler-mychale/States-Project/blob/master/study.gif "Study Guide")
+
+
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
 
 After studying and going over all the states, feel free to click the learn 
 button to be tested on the capitals of random states! You will be given 
