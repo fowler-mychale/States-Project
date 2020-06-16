@@ -4,6 +4,9 @@ The purpose of this game is to help you learn the states and capitals
 of the United States of America. 
 ________________________________________________________________</br>
 
+<img src="openingScreen.png" width="900" height="275"></br>
+
+
 Click the study button to go over all the states and learn a little extra 
 about them. </br>
 
